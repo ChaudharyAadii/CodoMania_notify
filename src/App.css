@@ -1,0 +1,28 @@
+body{
+  /* background-color: blueviolet */
+}
+
+.whole{
+  /* background-color: lemonchiffon */
+}
+
+#heading{
+  text-align:center;
+  text-decoration: underline;
+  text-underline-position: under;
+  margin-bottom: 20px;
+  /* text-decoration-line */
+  /* display:flex;
+  justify-content:center; */
+}
+
+.codechef, .leetcode, .codeforces{
+  padding: 20px;
+  border-top: 1px solid rgba(255, 49, 49, 0.5);
+  border-right: 1px solid rgba(23, 230, 230, 0.5);
+  border-bottom: 1px solid rgba(82, 188, 91, 0.5);
+  border-left: 1px solid rgba(255, 255, 113, 0.5);
+  border-width: 10px;
+  margin: 20px;
+}
+
